@@ -1,0 +1,19 @@
+set nocompatible
+filetype indent plugin on
+syntax on
+set hidden
+set wildmenu
+set showcmd
+set list
+set hlsearch
+set ignorecase
+set smartcase
+set autoindent
+set nostartofline
+set ruler
+set mouse=a
+set number
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set clipboard=unnamed
